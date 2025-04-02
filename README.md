@@ -53,9 +53,5 @@ An action RPG for mobile, inspired by Black Myth: Wukong. Players fight their wa
 
 ## Contact  
 - **Email:** saimanojreddy111@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](#) *(If applicable.)*  
-- **Portfolio:** [Your Portfolio Link](#) *(If available.)*  
-
----
-
-This version is **clean, professional, and human-like** without unnecessary filler. Let me know if you need any refinements!
+- **LinkedIn:** [(https://www.linkedin.com/in/e-sai-manoj-reddy-2b5050304/)
+](https://www.linkedin.com/in/e-sai-manoj-reddy-2b5050304/)
