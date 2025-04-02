@@ -1,7 +1,3 @@
-Got it! Here's a **more natural and professional** version of your README without emojis:  
-
----
-
 # Sai Manoj Reddy - Game Developer  
 
 Hi, I'm Sai Manoj Reddy, a passionate game developer with experience in Unreal Engine 5 and Unity. I enjoy building multiplayer systems, designing AI mechanics, and optimizing gameplay experiences. My focus is on creating immersive and well-polished games that push creative boundaries.  
